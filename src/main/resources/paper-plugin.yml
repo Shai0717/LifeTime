@@ -1,0 +1,15 @@
+name: LifeTime
+version: '1.0.0'
+main: kr.lifetime.LifeTimePlugin
+api-version: '26.3'
+description: A survival mode where time and actions consume a player's remaining life.
+dependencies:
+  server:
+    Kolor:
+      load: BEFORE
+      required: true
+      join-classpath: true
+permissions:
+  lifetime.admin:
+    description: Manage player lifetimes and reload LifeTime.
+    default: op

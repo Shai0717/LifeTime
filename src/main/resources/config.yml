@@ -1,0 +1,13 @@
+starting-life-seconds: 3600
+mob-kill-reward-seconds: 30
+
+# Costs are charged once for each listed action. Set a value to 0 to disable it.
+action-costs:
+  block-break: 2
+  block-place: 1
+  entity-attack: 2
+  damage-taken: 5
+  craft: 1
+  consume: 1
+  sprint-start: 1
+  interact: 0
