@@ -57,4 +57,4 @@ action-costs:
 수명 데이터와 탈락 전 게임 모드는 `plugins/LifeTime/lifetimes.yml`에 저장됩니다. 서버 종료·플레이어 로그아웃·수명 전달·탈락 시 저장되며, 온라인 수명은 약 1분마다 자동 저장됩니다. 비정상 종료 시 마지막 저장 이후의 수명 변동은 사라질 수 있습니다.
 
 
-<iframe src="https://github.com/sponsors/Shai0717/card" title="Sponsor Shai0717" height="225" width="600" style="border: 0;"></iframe>
+[![GitHub Sponsors](https://img.shields.io/github/sponsors/Shai0717?style=flat&logo=githubsponsors&color=ea4aaa)](https://github.com/sponsors/Shai0717)
